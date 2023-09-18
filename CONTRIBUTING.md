@@ -49,6 +49,7 @@
 ##### Exemplo commit
 
 `feat: adicionado novo arquivo`
+'description: O padrão Conventional Commits é mais robusto e estruturado, adequado para projetos maiores com várias contribuições e a necessidade de gerar changelogs automáticos. Por outro lado, mensagens de commit simples são mais diretas e podem ser mais adequadas para projetos menores ou para desenvolvedores que preferem simplicidade. É importante escolher o padrão que melhor se adapte às necessidades do seu projeto e garantir que a equipe esteja alinhada com essa escolha para manter a consistência nas mensagens de commit.'
 
 
 ## Referências
